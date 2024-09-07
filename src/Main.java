@@ -33,9 +33,16 @@
 //   }
 // }
 
+//public class Main {
+//    public static void main(String[] args) {
+//        Ordenacao t = new Ordenacao();
+//        t.Ordenar();
+//    }
+//}
+
 public class Main {
     public static void main(String[] args) {
-        Ordenacao t = new Ordenacao();
-        t.Ordenar();
+        Somador t = new Somador();
+        t.Somar();
     }
 }
